@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, sou Bruno Brandão! 👋
 
-<!--
-**BrunoBrandao17/BrunoBrandao17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Estudante de Desenvolvimento de Sistemas no *SENAI Dendezeiros* (Salvador - BA) | 3º Semestre.
 
-Here are some ideas to get you started:
+Atualmente focado em engenharia de software, versionamento com Git e desenvolvimento de sistemas corporativos (Java/Python).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+- *Linguagens:* Java ☕, Python 🐍, SQL (MySQL) 🗄️
+- *Ferramentas:* Git, GitHub, VS Code, Intellij idea, Insomnia
+
+### 📂 Meus Projetos Principais
+- **[Sistema-Empresa](https://github.com/BrunoBrandao17/Sistema-Empresa):** Sistema de gestão desenvolvido em Java focado em [digite aqui: CRUD/Regras de negócio].
+- *Lógica com Python:* Repositório com algoritmos e exercícios práticos do meu 1º semestre.
+
+---
+
+### 📫 Conecte-se comigo:
+- *LinkedIn:* https://www.linkedin.com/in/brunomachado-dev/
+- *E-mail:* Brunomachad17@gmail.com
