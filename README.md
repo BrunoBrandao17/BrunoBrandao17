@@ -11,10 +11,8 @@ Atualmente focado em engenharia de software, versionamento com Git e desenvolvim
 - *Ferramentas:* Git, GitHub, VS Code, Intellij idea, Insomnia
 
 ### 📂 Meus Projetos Principais
-- **[Sistema-Empresa](https://github.com/BrunoBrandao17/Sistema-Empresa):** Sistema de gestão desenvolvido em Java focado em [digite aqui: CRUD/Regras de negócio].
-- *Lógica com Python:* Repositório com algoritmos e exercícios práticos do meu 1º semestre.
-
----
+- **[Logística-Delivery](https://github.com/BrunoBrandao17/Logistica-de-delivery-em-java):** Sistema para gestão logística de delivery desenvolvida com Java e utilizando Spring Boot e MySQL, Implementa arquitetura em camadas (MVC), persistência de dados real e tratamento global de exceções para garantir um sistema escalável e seguro.
+- **[Posto de Gasolina](https://github.com/BrunoBrandao17/Posto-de-gasolina-em-python):** Sistema de Gerenciamento de Posto de Combustível, Simulador de terminal de vendas em Python focado em modularização e lógica de negócios.
 
 ### 📫 Conecte-se comigo:
 - *LinkedIn:* https://www.linkedin.com/in/brunomachado-dev/
