@@ -7,7 +7,7 @@ Atualmente focado em engenharia de software, versionamento com Git e desenvolvim
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-- *Linguagens:* Java ☕, Python 🐍, SQL (MySQL) 🗄️
+- *Linguagens:* Java ☕, Python 🐍, MySQL 🗄️
 - *Ferramentas:* Git, GitHub, VS Code, Intellij idea, Insomnia
 
 ### 📂 Meus Projetos Principais
