@@ -1,6 +1,6 @@
 # Olá, sou Bruno Machado Brandão! 👋
 
-🚀 Estudante de Desenvolvimento de Sistemas no *SENAI Dendezeiros* (Salvador - BA) | 3º Semestre.
+🚀 Estudante de Desenvolvimento de Sistemas no *SENAI Dendezeiros* (Salvador - BA) | 4º Semestre.
 
 Atualmente focado em engenharia de software, versionamento com Git e desenvolvimento de sistemas corporativos (Java/Python).
 
